@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="add_input_button">Add</string>
+    <string name="add_input_label">Note</string>
+    <string name="add_input_label_error">Note must have 2 characters</string>
+    <string name="add_input_placeholder">Enter a new Note</string>
+
+    <string name="add_content_label">Content</string>
+    <string name="add_content_placeholder">Content</string>
+    <string name="aaaa">Add</string>
+    <string name="add_note_icon_descr">Add</string>
+
+    <string name="sort_icon_descr">Sort</string>
+
+    <string name="back_arrow">Navigate Back</string>
+
+    <string name="notes_screen_name">Notes</string>
+    <string name="home_screen_name">Home Screen</string>
+    <string name="dummy_screen_name">Dummy Screen</string>
+    <string name="edit_add_note_screen_name">Edit Note Screen</string>
+
+    <string name="notes_screen_button">Notes</string>
+    <string name="home_screen_button">Home</string>
+
+    <string name="save_note_button">Save</string>
+    <string name="save_note_img_desc">Save Note</string>
+
+    <string name="cancel_button">Cancel</string>
+    <string name="remove_note_button">Delete</string>
+    <string name="remove_note_img_desc">Delete</string>
+    <string name="remove_note_msg">Note Deleted</string>
+    <string name="remove_note_confirmation_message">Are you sure you want to delete the note: \n \"%1$s\""?</string>
+    <string name="remove_note_undo_label">Note Deleted</string>
+
+</resources>
